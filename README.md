@@ -3,4 +3,8 @@
    https://youtu.be/qw-mLNdFx1U?si=lNccbvxswfrajbxO
    
 3. AWS Transit Gateway: VPC Full-Mesh Routing Lab Step by Step Demonstration mini project (youtube video)
-   https://www.youtube.com/watch?v=E7cSdAHLWMs
+  # Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/E7cSdAHLWMs/0.jpg)](https://www.youtube.com/watch?v=E7cSdAHLWMs)
+
+
